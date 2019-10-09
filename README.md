@@ -4,7 +4,7 @@ This app uses HTML, Bootstrap4 and javascript.
 The user inputs a value in pounds and the app displays 3 conversions of that value beneath the input instantly.
 
 Current Funtionalities: 
-- Takes wight input in Pounds.
+- Takes weight input in Pounds.
 - Displays conversions from pounds to gram/killogram/ounce.
 Screenshots:
 
